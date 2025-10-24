@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97704373330",
+    "project_id": "mho-shop",
+    "storage_bucket": "mho-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97704373330:android:c8a26d2eaa75856266438b",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-GSG5YEtE5p-hL70fTMHChT0B2NtiwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
